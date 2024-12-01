@@ -4,6 +4,8 @@ This repository documents my projects, notes, and experiments as I dive into lea
 
 ## Timeline
 - **Day 1**: Query and Path Parameters, Parameters Validation, Error Handling, and Response Type. 
+- **Day 2**: Body Parameters and UploadFile.
+
 
 ## Resources
 - [FastAPI Documentation](https://fastapi.tiangolo.com/learn/)
