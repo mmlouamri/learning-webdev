@@ -42,6 +42,5 @@ books = [
         "year": 1866,
         "buy_price": 14.67,
         "sell_price": 29.99,
-        "path": "storage/tpz2rzyryc.pdf",
     },
 ]
