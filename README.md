@@ -11,3 +11,4 @@ This repository documents my projects, notes, and experiments as I dive into lea
   
 ## Resources
 - [FastAPI Documentation](https://fastapi.tiangolo.com/learn/)
+- [FastAPI tips](https://github.com/Kludex/fastapi-tips)
