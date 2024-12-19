@@ -7,7 +7,7 @@ This repository documents my projects, notes, and experiments as I dive into lea
 - **Day 2**: Body Parameters and UploadFile. ([post](https://x.com/mmlouamri/status/1863368461885259865))
 - **Day 3**: Persisting data to a Database. ([post](https://x.com/mmlouamri/status/1867943836808622583))
 - **Day 4**: Introducing [FAST](https://github.com/mmlouamri/FAST) ([post](https://x.com/mmlouamri/status/1868306300872061258))
-- **Day 5**: Introduction [YATAP](https://github.com/mmlouamri/YATAP) ([post](https://x.com/mmlouamri/status/1869552579295969317))
+- **Day 5**: Introducing [YATAP](https://github.com/mmlouamri/YATAP) ([post](https://x.com/mmlouamri/status/1869552579295969317))
   
 ## Resources
 - [FastAPI Documentation](https://fastapi.tiangolo.com/learn/)
